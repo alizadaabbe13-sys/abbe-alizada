@@ -1,0 +1,5 @@
+{
+  "name": "Fotbollsturnering Resultat",
+  "description": "En app för att spåra och visa fotbollsresultat och tabellställning för en turnering, inspirerad av FotMob.",
+  "requestFramePermissions": []
+}
